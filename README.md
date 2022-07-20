@@ -3,5 +3,5 @@
 
 https://github.com/hahaetyaroma/vk-mini-apps-server - server, port=8001
 Client:
-  npm i
-  npm run start
+  1. npm i
+  2. npm run start
